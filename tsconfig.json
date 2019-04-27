@@ -5,5 +5,9 @@
     "module": "commonjs",
     "outDir": "./build",
     "rootDir": "./src"
-  }
+  },
+  
+  "include": [
+    "./src"
+  ]
 }
