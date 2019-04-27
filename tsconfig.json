@@ -9,5 +9,9 @@
   
   "include": [
     "./src"
+  ],
+
+  "files": [
+    "./node_modules/@types/express/index.d.ts"
   ]
 }

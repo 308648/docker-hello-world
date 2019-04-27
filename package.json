@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/308648/docker-hello-world/issues"
   },
-  "homepage": "https://github.com/308648/docker-hello-world#readme"
+  "homepage": "https://github.com/308648/docker-hello-world#readme",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "express": "^4.16.4"
+  }
 }
